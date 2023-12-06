@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adharsh-chandrasekharan" alt="adharsh-chandrasekharan" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://adharsh-chandrasekharan.github.io/Projects/](https://adharsh-chandrasekharan.github.io/Projects/)
 
