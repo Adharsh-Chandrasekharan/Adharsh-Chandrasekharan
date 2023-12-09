@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adharsh Chandrasekharan</h1>
+<h1 align="center">Hi 👋, I'm Adharsh Chandrasekharan </h1>
 <h3 align="center">A passionate Computer Science Student from Government College of Engineering Aurangabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh-chandrasekharan&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh-chandrasekharan" /> </p>
